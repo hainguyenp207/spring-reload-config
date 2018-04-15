@@ -1,0 +1,11 @@
+{
+  "env": "prod",
+  "isProduction": false,
+  "databaseConfig": {
+    "username":"jinzdev.com",
+    "password":"hello@World"
+  },
+  "api": {
+    "reloadConfig": true
+  }
+}
